@@ -1,0 +1,27 @@
+{
+  "name": "@beaker/datignore",
+  "version": "1.0.0",
+  "description": "A module for reading and using .datignore files",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -s tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beakerbrowser/datignore.git"
+  },
+  "keywords": [
+    "dat",
+    "ignore"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beakerbrowser/datignore/issues"
+  },
+  "homepage": "https://github.com/beakerbrowser/datignore#readme",
+  "devDependencies": {
+    "anymatch": "^2.0.0",
+    "ava": "^0.25.0"
+  }
+}
